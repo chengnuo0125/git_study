@@ -4,3 +4,7 @@ def say():
 
 def sing():
     print("Hello I.")
+
+
+def dance():
+    print("Moving")
