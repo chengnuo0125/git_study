@@ -8,3 +8,10 @@ def sing():
 
 def dance():
     print("Moving")
+
+
+def act():
+    say()
+    write()
+    sing()
+    dance()
