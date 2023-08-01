@@ -8,3 +8,7 @@ def write():
 
 def sing():
     print("Hello I.")
+
+
+def dance():
+    print("Moving")
