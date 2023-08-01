@@ -4,3 +4,7 @@ def say():
 
 def write():
     return 'Hello Python.'
+
+
+def sing():
+    print("Hello I.")
