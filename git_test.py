@@ -1,2 +1,2 @@
 def say():
-    print('Hello Git.')
+    print('Finished!')
